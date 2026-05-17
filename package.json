@@ -1,14 +1,14 @@
 {
-  "name": "meme-code",
+  "name": "vscode-meme-code",
   "displayName": "Meme Code",
-  "description": "",
+  "description": "Turns VS Code errors into fun memes and shows visuals based on code error rate and execution.",
   "version": "0.0.1",
   "publisher": "isudiptodas",
-  "icon": "src/media/icon.png",
+  "icon": "media/icon.png",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/isudiptodas/VSCode_Meme_Code"
   },
   "engines": {
     "vscode": "^1.120.0"
