@@ -8,7 +8,7 @@ Instead of just showing boring error counts, it visually reacts using meme image
 1. Install extension
 2. Click on extension icon from sidebar to activate
 
-## 💡 Supported Languages
+# Supported Languages
 
 Works with any language that supports VS Code diagnostics:
 - JavaScript / TypeScript
