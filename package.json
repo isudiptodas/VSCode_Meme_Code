@@ -1,6 +1,6 @@
 {
-  "name": "vscode-meme-code",
-  "displayName": "Meme Code",
+  "name": "meme-code-vscode",
+  "displayName": "CodeMeme",
   "description": "Turns VS Code errors into fun memes and shows visuals based on code error rate and execution.",
   "version": "0.0.1",
   "publisher": "isudiptodas",
